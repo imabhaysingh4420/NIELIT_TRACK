@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical"
+    android:paddingStart="16dp"
+    android:paddingTop="16dp"
+    android:paddingEnd="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/label_roll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:text="Roll No"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginEnd="12dp" />
+
+        <!-- Student Name -->
+        <TextView
+            android:id="@+id/label_student"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="4dp"
+            android:text="Student Name"
+            android:textSize="16sp"
+            android:textColor="#000000" />
+
+        <!-- Present Button -->
+        <Button
+            android:id="@+id/button_present"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:backgroundTint="#4CAF50"
+            android:text="P"
+            android:textColor="#FFFFFF"
+            android:padding="8dp"
+            android:textSize="14sp" />
+
+        <!-- Absent Button -->
+        <Button
+            android:id="@+id/button_absent"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#F44336"
+            android:text="A"
+            android:textColor="#FFFFFF"
+            android:padding="8dp"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/divider2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="16dp"
+        android:background="?android:attr/listDivider" />
+
+    <!-- Fixed Submit Button at bottom -->
+    <Button
+        android:id="@+id/button_submit_attendance"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Submit Attendance"
+        android:textSize="16sp"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="@color/mybutton"
+        android:padding="10dp"
+        android:layout_marginTop="12dp" />
+</LinearLayout>
+

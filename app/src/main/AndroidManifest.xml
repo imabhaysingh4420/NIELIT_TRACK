@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".context.AppContext"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NIELIT.Light">
+
+        <activity android:name=".views.ViewFacultyDetailsActivity" />
+        <activity android:name=".views.ViewStudentDetailsActivity" />
+        <activity android:name=".views.LoginActivity" />
+        <activity android:name=".views.ViewStudentByBranchSemActivity" />
+        <activity android:name=".views.SearchStudentActivity" />
+        <activity android:name=".views.ViewFacultyActivity" />
+        <activity android:name=".views.AddStudentActivity" />
+        <activity android:name=".views.ViewAttendancePerStudentActivity" />
+        <activity android:name=".views.AdminDashboardActivity" />
+        <activity android:name=".views.AddFacultyActivity" />
+        <activity android:name=".views.ViewTotalAttendanceActivity" />
+        <activity android:name=".views.AddAttendanceActivity" />
+        <activity android:name=".views.AddAttendanceSessionActivity" />
+
+        <!-- ✅ FIXED exported attribute inside the activity tag -->
+        <activity
+            android:name=".views.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

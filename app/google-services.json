@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523125196523",
+    "project_id": "nielit-attendance",
+    "storage_bucket": "nielit-attendance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523125196523:android:3a665f1ce45b2955c660ae",
+        "android_client_info": {
+          "package_name": "co.in.nielit.nielittrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gzH2kJrRA8d5O6Hw6kTFSvk3xDrWNeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
