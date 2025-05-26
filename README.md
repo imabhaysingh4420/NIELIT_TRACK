@@ -17,7 +17,7 @@ NIELIT TRACK Attendance Manager application for Android developed using Java, SQ
 
 ## Screenshots
 
-### Main Screen
+### WelCome Screen
 <img width="300px" src="/screenshots/1.jpg" align="center" alt="Screenshot1" />
 
 ### Login Screen
@@ -26,19 +26,19 @@ NIELIT TRACK Attendance Manager application for Android developed using Java, SQ
 ### Admin Dashboard Screen
 <img width="300px" src="/screenshots/3.jpg" align="center" alt="Screenshot3" />
 
-### Attendance Management Screen
+### Add Student
 <img width="300px" src="/screenshots/4.jpg" align="center" alt="Screenshot4" />
 
-### Add Attendance Screen
+### Add Faculty
 <img width="300px" src="/screenshots/5.jpg" align="center" alt="Screenshot5" />
 
 ### View Attendance Screen
 <img width="300px" src="/screenshots/6.jpg" align="center" alt="Screenshot6" />
 
-### 
+### Add Attendance Screen
 <img width="300px" src="/screenshots/7.jpg" align="center" alt="Screenshot7" />
 
-### 
+### Attendance Management Screen
 <img width="300px" src="/screenshots/8.jpg" align="center" alt="Screenshot8" />
 
 ### 
