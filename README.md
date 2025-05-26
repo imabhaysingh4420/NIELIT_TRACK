@@ -47,6 +47,6 @@ NIELIT TRACK Attendance Manager application for Android developed using Java, SQ
 ### View Attendance Screen
 <img width="300px" src="/screenshots/10.jpg" align="center" alt="Screenshot10" />
 
-
+### My Profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imabhaysingh4420/)
 
