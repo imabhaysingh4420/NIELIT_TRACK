@@ -1,8 +1,8 @@
-# Attendance Manager
-Attendance Manager application for Android developed using Java, SQLite and Shared Preferences.
+# NIELIT TRACK
+NIELIT TRACK Attendance Manager application for Android developed using Java, SQLite and Shared Preferences.
 
 ## Author
-- Nikhil Kumar
+- Abhay Singh and Manjinder Kaur
 
 ## Features
 - Add Student
@@ -34,3 +34,15 @@ Attendance Manager application for Android developed using Java, SQLite and Shar
 
 ### View Attendance Screen
 <img width="300px" src="/screenshots/6.jpg" align="center" alt="Screenshot6" />
+
+### 
+<img width="300px" src="/screenshots/7.jpg" align="center" alt="Screenshot7" />
+
+### 
+<img width="300px" src="/screenshots/8.jpg" align="center" alt="Screenshot8" />
+
+### 
+<img width="300px" src="/screenshots/9.jpg" align="center" alt="Screenshot9" />
+
+### 
+<img width="300px" src="/screenshots/10.jpg" align="center" alt="Screenshot10" />

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.NIELIT.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.Nielit.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Prevent auto-switching to dark mode -->
         <item name="android:forceDarkAllowed">false</item>
 
